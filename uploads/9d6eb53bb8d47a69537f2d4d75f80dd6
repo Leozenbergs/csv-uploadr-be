@@ -1,0 +1,8 @@
+user_id,company_id,event_name,action,date_time
+1,1,login,put,2019-04-01 11:03:50
+2,2,budget,put,2019-04-02 12:03:50
+3,3,dashboard,get,2019-04-01 11:05:50
+4,3,dashboard,get,2019-04-01 11:07:50
+4,3,budget,get,2019-04-01 11:05:50
+5,3,budget,put,2019-04-01 11:10:50
+10,1,dashboard,get,2019-04-01 12:05:50
